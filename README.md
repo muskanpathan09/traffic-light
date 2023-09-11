@@ -1,0 +1,1 @@
+this code controls three LEDs connected to digital pins 13, 12, and 8, turning them on and off in a sequential loop with 2-second intervals for each LED. This is a basic example of using an Arduino to control simple output devices like LEDs.
